@@ -8,7 +8,7 @@
 
 ## Process Hacker
 
-一个免费的，强大的，多用途的工具，帮助您监控系统资源，调试软件和检测恶意软件。有点像XueTr和ProcessExplore的合体，功能挺多，能够帮助调试bug，跟踪资源。
+一个免费的，强大的，多用途的工具，帮助您监控系统资源，调试软件和检测恶意软件。有点像XueTr和ProcessExplore的合体，功能挺多，能够帮助调试bug，跟踪资源。进程管理工具。
 
 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
