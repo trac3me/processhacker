@@ -8,6 +8,8 @@
 
 ## Process Hacker
 
+一个免费的，强大的，多用途的工具，帮助您监控系统资源，调试软件和检测恶意软件。有点像XueTr和ProcessExplore的合体，功能挺多，能够帮助调试bug，跟踪资源。
+
 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
 [Project Website](https://processhacker.sourceforge.io/) - [Project Downloads](https://processhacker.sourceforge.io/downloads.php)
@@ -27,7 +29,14 @@ Windows 7 or higher, 32-bit or 64-bit.
 * Go beyond services.msc: create, edit and control services.
 * Small, portable and no installation required.
 * 100% [Free Software](http://www.gnu.org/philosophy/free-sw.en.html) ([GPL v3](http://www.gnu.org/licenses/gpl-3.0.en.html))
-
+* 突出显示系统活动的详细概述。
+* 图表和统计数据允许您快速跟踪资源占用者和失控进程。
+* 不能编辑或删除文件?发现哪些进程正在使用该文件。
+* 查看哪些程序有活跃的网络连接，必要时关闭它们。
+* 获取磁盘访问的实时信息。
+* 查看内核模式，WOW64和。net支持的详细堆栈跟踪。
+* 超越服务。创建、编辑和控制服务。
+* 小巧，轻便，无需安装。
 
 ## Building the project
 
